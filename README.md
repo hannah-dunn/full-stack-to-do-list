@@ -6,11 +6,24 @@ Documentation image for the inital app before the design stage.
 
 ![Alt text](image.png)
 
+
+## Known issues
+
+- Cannot add or delete the to-do items, still a work in progress, this is an initial push to GitHub to begin documentation
+
+---
+
 ## Requirements / Purpose
 
 - MVP
-- purpose of project
-- stack used and why
+
+
+Stack:
+- React
+- Typescript
+- Java
+- Spring
+- MySQL
 
 ---
 
@@ -39,13 +52,6 @@ npm run dev
 
 - What features does the project have?
 - list them...
-
----
-
-## Known issues
-
-- Remaining bugs, things that have been left unfixed
-- Features that are buggy / flimsy
 
 ---
 
